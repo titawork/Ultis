@@ -19,3 +19,6 @@ read and write key=value file.
 1. support '#' to comment
 2. support key=int
 3. support key=string
+
+Compile：
+g++ ConfigFileOperation.cpp  -o main -D _TEST_
